@@ -1,0 +1,6 @@
+{
+  "name": "Gallrize",
+  "description": "Tactile gesture-based photo library cleaner with sprint triage, storage recovery, and duplicate analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
